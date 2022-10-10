@@ -7,14 +7,14 @@ https://habr.com/ru/post/689520/
 1. Добавить свои значения переменных в файл `config.py`:
 
 > 1.1 Параметры из [my.telegram.org](https://my.telegram.org)
-- api_id = <Твой api_id int>
-- api_hash = <Твой api_hash str>
+- `api_id = <Твой api_id int>`
+- `api_hash = <Твой api_hash str>`
 
 > 1.2 Бот из @BotFather
-- bot_token = <Токен твоего бота str>
+- `bot_token = <Токен твоего бота str>`
 
 > 1.3 id канала, куда будут сливаться все новости
-- gazp_chat_id = <Id твоего канала c минсуом в начале int>
+- `gazp_chat_id = <Id твоего канала c минсуом в начале int>`
 
 2. Запустить телеграм парсер `telegram_parser.py`, чтобы пройти аутентификацию в [telethon](https://docs.telethon.dev/en/stable/) и получить свои файлы сессии `bot.session` и `gazp.session`
 
