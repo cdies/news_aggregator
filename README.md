@@ -29,13 +29,13 @@ https://habr.com/ru/post/689520/
 - [@markettwits](https://t.me/markettwits)
 
 > RSS каналы
-- [www.rbc.ru](https://rssexport.rbc.ru/rbcnews/news/20/full.rss)
-- [www.ria.ru](https://ria.ru/export/rss2/archive/index.xml)
-- [www.1prime.ru](https://1prime.ru/export/rss2/index.xml)
-- [www.interfax.ru](https://www.interfax.ru/rss.asp)
+- [www.rbc.ru](https://.rbc.ru)
+- [www.ria.ru](https://ria.ru)
+- [www.1prime.ru](https://1prime.ru)
+- [www.interfax.ru](https://www.interfax.ru)
 
 > новостные сайты
-- [www.bcs-express.ru](https://bcs-express.ru/)
+- [www.bcs-express.ru](https://bcs-express.ru)
 
 ### Настройка и запуск
 Фильтр по умолчанию настроен на газпром, газ и всё с этим связанное (хотя иногда проскакивают и другие новости). 
