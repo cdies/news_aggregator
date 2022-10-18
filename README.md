@@ -19,7 +19,7 @@ https://habr.com/ru/post/689520/
 2. Запустить телеграм парсер `telegram_parser.py`, чтобы пройти аутентификацию в [telethon](https://docs.telethon.dev/en/stable/) и получить свои файлы сессии `bot.session` и `gazp.session`
 
 
-### Аггрегатор по умолчанию парсит новости из:
+### Агрегатор по умолчанию парсит новости из:
 > телеграм каналы
 - [@rbc_news](https://t.me/rbc_news)
 - [@gazprom](https://t.me/gazprom)
