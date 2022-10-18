@@ -14,7 +14,7 @@ https://habr.com/ru/post/689520/
 - `bot_token = <Токен твоего бота str>`
 
 > 1.3 id канала, куда будут сливаться все новости
-- `gazp_chat_id = <Id твоего канала c минсуом в начале int>`
+- `gazp_chat_id = <Id твоего канала c минусом в начале int>`
 
 2. Запустить телеграм парсер `telegram_parser.py`, чтобы пройти аутентификацию в [telethon](https://docs.telethon.dev/en/stable/) и получить свои файлы сессии `bot.session` и `gazp.session`
 
